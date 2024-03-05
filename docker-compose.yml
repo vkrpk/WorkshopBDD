@@ -1,0 +1,5 @@
+services:
+  bwapp-docker:
+    ports:
+      - 80:80
+    image: hackersploit/bwapp-docker
